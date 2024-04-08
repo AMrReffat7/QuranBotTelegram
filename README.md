@@ -16,7 +16,7 @@ Here's an example of how the bot works:
 
 ![Example](1.PNG)
 
-![Example 2](2.PNH)
+![Example](2.PNG)
 
 ## Installation
 
