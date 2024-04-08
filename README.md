@@ -14,8 +14,8 @@ The Quran Bot is your companion for accessing and downloading audio files of Qur
 
 Here's an example of how the bot works:
 
-![Example](1.png)
-![Example](2.png)
+![Example](1.PNG)
+![Example](2.PNH)
 
 ## Installation
 
