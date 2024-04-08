@@ -1,6 +1,5 @@
 Sure, here's the README.md file updated based on the provided format:
 
-```markdown
 # Quran Bot
 
 The Quran Bot is your companion for accessing and downloading audio files of Quranic verses directly from Telegram. It helps you select from various renowned reciters, download specific Surahs by specifying the Surah number, and explore the list of available Surahs with their names and numbers.
@@ -15,7 +14,8 @@ The Quran Bot is your companion for accessing and downloading audio files of Qur
 
 Here's an example of how the bot works:
 
-![Example](1.png)(2.png)
+![Example](1.png)
+![Example](2.png)
 
 ## Installation
 
@@ -72,5 +72,6 @@ Contributions are welcome! If you want to contribute to this project, follow the
 6. Create a new Pull Request.
 
 ## Feedback
+``` 
 
 Have ideas or issues? Share them in the [issues section](link to your GitHub repository's issues page). Let's make this bot even better!
